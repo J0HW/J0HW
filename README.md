@@ -160,7 +160,7 @@
         <div class="navigation">
             <a href="file:///C:/Users/AIONE/Desktop/%EB%AF%B8%EB%9E%98%EC%A7%80%EA%B8%B0.html">홈</a>
             <a href="https://ysw1mst.github.io/Smartcity/">지진</a>
-            <a href="#">태풍</a>
+            <a href="#">폭염</a>
              <a href="floodweb.html">홍수</a>
             <a href="#">재난현황</a>
             <a href="https://www.safekorea.go.kr/idsiSFK/neo/sfk/cs/ppn/emg/SDIJKM5602.html?menuSeq=596">비상연락망</a>
